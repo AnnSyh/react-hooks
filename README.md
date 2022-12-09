@@ -12,4 +12,5 @@
 - my-hook - пример с собственным хуком
 
 ## Versel
-Preview - ветка hook-Reduser - пример с useReduser
+Production - ветка main         - пример с useContext 
+Preview -    ветка hook-Reduser - пример с useReduser
