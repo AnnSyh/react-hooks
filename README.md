@@ -9,7 +9,7 @@
 ## Ветки
 - main - пример с useContext
 - hook-Reduser  - пример с useReduser
-- my-hook - пример с собственным хуком (примеры хуков)
+- my-hook - пример с собственным хуком (примеры хуков можно см здесь https://usehooks.com/)
 
 ## Versel
 - Production - ветка main         - пример с useContext 
