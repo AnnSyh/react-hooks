@@ -9,4 +9,4 @@
 ## Ветки
 - main - пример с useContext
 - hook-Reduser  - пример с useReduser
-- my-hook - пример с собственным хуком
+-  custom-hook-examples - пример с кастомными хуком
